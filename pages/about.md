@@ -11,9 +11,8 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A passionate Software Development professional with experience in team leadership. 
+I have 16 years experience in Customer Service that I am excited to apply to my transition into the Technology sector. 
+I've mastered the ability to build rapport with customers and colleagues in high pressure setting. 
+Eager to apply recent studies in Software Engineering Backend Development and communication, time management, 
+and organization skills to tackle new challenges and solve problems in an independent environment.
